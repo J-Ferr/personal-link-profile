@@ -28,6 +28,6 @@ Instead of using third-party link aggregators, this page is fully custom-built a
 
 ## Live Demo
 
-(Add your deployed link here once live)
+(https://personal-link-profile.vercel.app/)
 
 Designed and built by Jose Armando.
