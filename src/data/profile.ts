@@ -7,7 +7,7 @@ export interface Profile {
 
 export const profile: Profile = {
   name: "Jose Armando Arellano Ferrara",
-  title: "Full-Stack Engineer | Creative Dev",
-  bio: "I build clean, modern web apps with React, Node, and PostgreSQL.",
+  title: "| Full-Stack Engineer |",
+  bio: "Full-stack engineer building and refining web applications with React, TypeScript, Node.js, and PostgreSQL.",
   avatar: "/profile.jpg",
 }
