@@ -30,4 +30,8 @@ Instead of using third-party link aggregators, this page is fully custom-built a
 
 (https://personal-link-profile.vercel.app/)
 
+## Preview
+
+![Personal Link Profile](/src/assets/plp-preview.png)
+
 Designed and built by Jose Armando.
